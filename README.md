@@ -1,1 +1,2 @@
-# FTT-20
+git init
+git add 
